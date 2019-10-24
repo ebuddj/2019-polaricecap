@@ -5,7 +5,7 @@
 Animation on evolution of the Arctic ice cap surface from 1979-2018, ahead of tomorrow's ICC Summit on Ocean and Marine life
 
 This animation is based on satellite images taken yearly on September 15th, from 1979 to 2018. Years 1981, 1983 and 1984 are missing as for some unknown reason the data was not available. The date was chosen because the ice coverage is the smallest at this time of the year (in September).
-In 2017 the ice coverage was the 3rd smallest covering 4.59 million square kilometres. Since 1970 each year ice has melted at a rate of roughly 54 000 square kilometres per year in average. The big IPCC report from last Autumn states that one of the biggest trends is the melting of polar ice caps.
+In 2017 the ice coverage was the 3rd smallest covering 4.59 million square kilometres. Since 1970 each year ice has melted at a rate of roughly 54,000 square kilometres per year in average. The big IPCC report from last Autumn states that one of the biggest trends is the melting of polar ice caps.
 
 An EBU version of the animation by Yle/Finland. The original story can be found here in Finnish: https://yle.fi/uutiset/3-10595861
 
@@ -22,7 +22,7 @@ An EBU version of the animation by Yle/Finland. The original story can be found 
 
 ## How to use
 
-Please refer to [News Exchange](https://news-exchange.ebu.ch/item_detail/a99186aaf664d4e8b6ef78bfe20abc95/2019_21044278) and/or [Social Newswire](https://www.evnsocialnewswire.ch/climate/climate-animation-shows-the-evolution-of-the-arctic-ice-cap-surface-from-1979-2018-animation/)
+Please refer to [News Exchange](https://news-exchange.ebu.ch/item_detail/a99186aaf664d4e8b6ef78bfe20abc95/2019_21044278) and/or [Social Newswire](https://www.evnsocialnewswire.ch/climate/climate-animation-shows-the-evolution-of-the-arctic-ice-cap-surface-from-1979-2018-animation/).
 
 This visualization is part of the EBU News Exchange’s Data Journalism project. Other projects are available: https://news-exchange.ebu.ch/data-journalism
 
