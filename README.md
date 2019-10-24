@@ -22,7 +22,7 @@ An EBU version of the animation by Yle/Finland. The original story can be found 
 
 ## How to use
 
-If you are interested in using the interactive version please contact Teemo Tebest, tebest@ebu.ch
+Please refer to [News Exchange](https://news-exchange.ebu.ch/item_detail/a99186aaf664d4e8b6ef78bfe20abc95/2019_21044278) and/or [Social Newswire](https://www.evnsocialnewswire.ch/climate/climate-animation-shows-the-evolution-of-the-arctic-ice-cap-surface-from-1979-2018-animation/)
 
 This visualization is part of the EBU News Exchange’s Data Journalism project. Other projects are available: https://news-exchange.ebu.ch/data-journalism
 
