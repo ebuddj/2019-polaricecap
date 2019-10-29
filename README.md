@@ -9,13 +9,14 @@ In 2017 the ice coverage was the 3rd smallest covering 4.59 million square kilom
 
 An EBU version of the animation by Yle/Finland. The original story can be found here in Finnish: https://yle.fi/uutiset/3-10595861
 
+**Links**
 * [News Exchange](https://news-exchange.ebu.ch/item_detail/a99186aaf664d4e8b6ef78bfe20abc95/2019_21044278)
 * [Social Newswire](https://www.evnsocialnewswire.ch/climate/climate-animation-shows-the-evolution-of-the-arctic-ice-cap-surface-from-1979-2018-animation/)
 
-**Sources:**
+**Sources**
 * [Copernicus Climate Change Service](https://climate.copernicus.eu/) and [ECMWF](https://www.ecmwf.int/)
 
-**Used by:**
+**Used by**
 * [Yle/Finland](https://yle.fi/uutiset/3-10985619)
 * [SRF/Switzerland](https://www.instagram.com/p/B2oSMZ6giRM/)
 * HRTV/Croatia on Broadcast
