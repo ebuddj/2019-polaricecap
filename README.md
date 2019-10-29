@@ -1,6 +1,6 @@
 # 2019-polaricecap
 
-## Arctic ice cap animation
+## Arctic Ice Cap Animation (EBU)
 
 Animation on evolution of the Arctic ice cap surface from 1979-2018, ahead of tomorrow's ICC Summit on Ocean and Marine life
 
