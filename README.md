@@ -15,6 +15,7 @@ An EBU version of the animation by Yle/Finland. The original story can be found 
 * [News Exchange](https://news-exchange.ebu.ch/item_detail/d24f66bb5be1c98583b12102bae5e48b/2019_21058041)
   * Updated version: years 1979–2019
 * [Social Newswire](https://www.evnsocialnewswire.ch/climate/climate-animation-shows-the-evolution-of-the-arctic-ice-cap-surface-from-1979-2018-animation/)
+* [Social Newswire](https://www.evnsocialnewswire.ch/climate/climate-animation-shows-the-evolution-of-the-arctic-ice-cap-surface-from-1979-2019-animation/)
 
 **Sources**
 * [Copernicus Climate Change Service](https://climate.copernicus.eu/) and [ECMWF](https://www.ecmwf.int/)
@@ -22,7 +23,10 @@ An EBU version of the animation by Yle/Finland. The original story can be found 
 **Used by**
 * [Yle/Finland](https://yle.fi/uutiset/3-10985619)
 * [SRF/Switzerland](https://www.instagram.com/p/B2oSMZ6giRM/)
-* HRTV/Croatia on Broadcast
+* HRTV/Croatia on HTV1
+* DR/Denmark on DR1
+* FR24/France on France 24 English
+* FR24/France on France 24 Espanol YTS
 
 ## How to use
 
