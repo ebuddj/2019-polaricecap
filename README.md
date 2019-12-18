@@ -14,7 +14,7 @@ An EBU version of the animation by Yle/Finland. The original story can be found 
   * Original version: years 1979–2018
 * [News Exchange](https://news-exchange.ebu.ch/item_detail/d24f66bb5be1c98583b12102bae5e48b/2019_21058041)
   * Updated version: years 1979–2019
-* [Social Newswire](https://www.evnsocialnewswire.ch/climate/climate-animation-shows-the-evolution-of-the-arctic-ice-cap-surface-from-1979-2018-animation/)
+* [Social Newswire](https://www.evnsocialnewswire.ch/climate/climate-animation-shows-the-evolution-of-the-arctic-ice-cap-surface-from-1979-2018-animation/) (no longer exists)
 * [Social Newswire](https://www.evnsocialnewswire.ch/climate/climate-animation-shows-the-evolution-of-the-arctic-ice-cap-surface-from-1979-2019-animation/)
 
 **Sources**
