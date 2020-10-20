@@ -2,10 +2,11 @@
 
 ## Arctic Ice Cap Animation (EBU)
 
-Animation on evolution of the Arctic ice cap surface from 1979-2018, ahead of tomorrow's ICC Summit on Ocean and Marine life
+Animation on evolution of the Arctic ice cap surface from 1979-2019 in mid-September, ahead of tomorrow's ICC Summit on Ocean and Marine life.
 
-This animation is based on satellite images taken yearly on September 15th, from 1979 to 2018. Years 1981, 1983 and 1984 are missing as for some unknown reason the data was not available. The date was chosen because the ice coverage is the smallest at this time of the year (in September).
-In 2017 the ice coverage was the 3rd smallest covering 4.59 million square kilometres. Since 1970 each year ice has melted at a rate of roughly 54,000 square kilometres per year in average. The big IPCC report from last Autumn states that one of the biggest trends is the melting of polar ice caps.
+This animation is based on satellite images taken yearly on September 15th, from 1979 to 2019. Years 1981, 1983 and 1984 are missing as for an unknown reason the data is not available The date was chosen because the ice coverage is the smallest at this time of the year (in September).
+
+In 2017 the ice coverage was the 3rd smallest covering 4.59 million square kilometres. Since 1970 each year ice has melted at a rate of roughly 54,000 square kilometres per year in average. The big IPCC report from last autumn states that one of the biggest trends is the melting of polar ice caps.
 
 An EBU version of the animation by Yle/Finland. The original story can be found here in Finnish: https://yle.fi/uutiset/3-10595861
 
@@ -14,10 +15,8 @@ An EBU version of the animation by Yle/Finland. The original story can be found 
 * [ECMWF](https://www.ecmwf.int/)
 
 **EBU links**
-* [News Exchange](https://news-exchange.ebu.ch/item_detail/a99186aaf664d4e8b6ef78bfe20abc95/2019_21044278)
-  * Original version: years 1979–2018
-* [News Exchange](https://news-exchange.ebu.ch/item_detail/d24f66bb5be1c98583b12102bae5e48b/2019_21058041)
-  * Updated version: years 1979–2019
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/a99186aaf664d4e8b6ef78bfe20abc95/2019_21044278), Years 1979–2018
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/d24f66bb5be1c98583b12102bae5e48b/2019_21058041), Years 1979–2019
 * [Social Newswire](https://www.evnsocialnewswire.ch/climate/climate-animation-shows-the-evolution-of-the-arctic-ice-cap-surface-from-1979-2018-animation/) (no longer exists)
 * [Social Newswire](https://www.evnsocialnewswire.ch/climate/climate-animation-shows-the-evolution-of-the-arctic-ice-cap-surface-from-1979-2019-animation/)
 
